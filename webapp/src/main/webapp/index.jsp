@@ -12,7 +12,7 @@
 
 <body>
     <nav>
-        <div class="heading">Landing Page</div>
+        <div class="heading">Landing Page by MANOJ</div>
         <span class="sideMenuButton" 
             onclick="openNavbar()">
             &#9776
