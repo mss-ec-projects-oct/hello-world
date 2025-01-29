@@ -154,7 +154,7 @@
                             <span>More Information</span>
                         </div>
                         <div class="content1">
-                            Greetings to all the Geeks out there!
+                            Greetings to all the Geeks out there from MANOJ KUNAR REDDY!
                             We welcome you to the platform where we
                             consistently strive to offer the best 
                             of education. This platform has been 
