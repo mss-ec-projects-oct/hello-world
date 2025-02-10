@@ -12,7 +12,7 @@
 
 <body>
     <nav>
-        <div class="heading">Landing Page for HELLO-WORLD</div>
+        <div class="heading">Landing Page for HELLO-WORLD for k8s</div>
         <span class="sideMenuButton" 
             onclick="openNavbar()">
             &#9776
