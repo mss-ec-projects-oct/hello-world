@@ -7,7 +7,7 @@
     <meta name="viewport" content=
         "width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
-    <title>Landing Page for HELLO-WORLD</title>
+    <title>Landing Page for HELLO-WORLD for K8S</title>
 </head>
 
 <body>
