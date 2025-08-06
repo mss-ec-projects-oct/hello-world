@@ -1,15 +1,23 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h2>An Unordered HTML List</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+<h2>An Ordered HTML List</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
 
 </body>
 </html>
-
-
 
